@@ -191,6 +191,7 @@ spec:
               - list
               - watch
               - create
+              - patch
           - apiGroups:
               - cert-manager.io
             resources:
